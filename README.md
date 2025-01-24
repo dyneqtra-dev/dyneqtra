@@ -1,5 +1,8 @@
 # dyneqtra-dev - Graph-Based Editor for LLM Workflows
 
+![Banner](https://i.ibb.co/2WfkJs6/1-FED9459-96-D3-4134-85-AF-4-D733-D7-FB182.png?v=1)
+
+
 # 🕸️ Why dyneqtra-dev?
 
 - 🖐️ **Drag-and-drop**: Visually build and test workflows in seconds.
