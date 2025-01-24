@@ -1,6 +1,6 @@
 # dyneqtra-dev - Graph-Based Editor for LLM Workflows
 
-![Banner](https://i.ibb.co/2WfkJs6/1-FED9459-96-D3-4134-85-AF-4-D733-D7-FB182.png?v=1)
+![Banner](https://raw.githubusercontent.com/sowravhasan/brand-shop/main/A3955FBC-3A6A-4034-A9C4-B5E8A32D973D.png)
 
 
 # 🕸️ Why dyneqtra-dev?
